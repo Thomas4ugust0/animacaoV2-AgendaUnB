@@ -1,0 +1,349 @@
+{
+  "description": "Measured intensity peaks; unlabeled peaks, not persistent trajectory IDs. Hourglass center excluded.",
+  "samples": [
+    {
+      "time": 0,
+      "x": 0,
+      "peaks": [
+        {
+          "y": 670,
+          "strength": 3.33
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 200,
+      "peaks": [
+        {
+          "y": 611,
+          "strength": 13.82
+        },
+        {
+          "y": 634,
+          "strength": 12.8
+        },
+        {
+          "y": 647,
+          "strength": 2.81
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 400,
+      "peaks": [
+        {
+          "y": 550,
+          "strength": 10.13
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 600,
+      "peaks": [
+        {
+          "y": 490,
+          "strength": 11.81
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 1200,
+      "peaks": [
+        {
+          "y": 644,
+          "strength": 11.01
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 1400,
+      "peaks": [
+        {
+          "y": 606,
+          "strength": 15.19
+        },
+        {
+          "y": 620,
+          "strength": 11.52
+        },
+        {
+          "y": 593,
+          "strength": 2.04
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 1600,
+      "peaks": [
+        {
+          "y": 564,
+          "strength": 10.76
+        }
+      ]
+    },
+    {
+      "time": 0,
+      "x": 1840,
+      "peaks": [
+        {
+          "y": 536,
+          "strength": 13.18
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 0,
+      "peaks": [
+        {
+          "y": 623,
+          "strength": 14.55
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 200,
+      "peaks": [
+        {
+          "y": 665,
+          "strength": 16.73
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 400,
+      "peaks": [
+        {
+          "y": 617,
+          "strength": 14.48
+        },
+        {
+          "y": 634,
+          "strength": 10.94
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 600,
+      "peaks": [
+        {
+          "y": 626,
+          "strength": 11.76
+        },
+        {
+          "y": 544,
+          "strength": 8.64
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 1200,
+      "peaks": [
+        {
+          "y": 524,
+          "strength": 10.26
+        },
+        {
+          "y": 580,
+          "strength": 8.4
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 1400,
+      "peaks": [
+        {
+          "y": 637,
+          "strength": 11.16
+        },
+        {
+          "y": 567,
+          "strength": 2.67
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 1600,
+      "peaks": [
+        {
+          "y": 620,
+          "strength": 11.75
+        },
+        {
+          "y": 606,
+          "strength": 11.58
+        },
+        {
+          "y": 593,
+          "strength": 6.81
+        }
+      ]
+    },
+    {
+      "time": 1,
+      "x": 1840,
+      "peaks": [
+        {
+          "y": 559,
+          "strength": 12.63
+        },
+        {
+          "y": 572,
+          "strength": 4.18
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 0,
+      "peaks": [
+        {
+          "y": 550,
+          "strength": 17.32
+        },
+        {
+          "y": 513,
+          "strength": 17.18
+        },
+        {
+          "y": 563,
+          "strength": 4.18
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 200,
+      "peaks": [
+        {
+          "y": 522,
+          "strength": 17.5
+        },
+        {
+          "y": 603,
+          "strength": 14.04
+        },
+        {
+          "y": 509,
+          "strength": 2.89
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 400,
+      "peaks": [
+        {
+          "y": 651,
+          "strength": 14.09
+        },
+        {
+          "y": 570,
+          "strength": 12.3
+        },
+        {
+          "y": 583,
+          "strength": 2.48
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 600,
+      "peaks": [
+        {
+          "y": 623,
+          "strength": 13.61
+        },
+        {
+          "y": 636,
+          "strength": 9.26
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 1200,
+      "peaks": [
+        {
+          "y": 525,
+          "strength": 11.85
+        },
+        {
+          "y": 539,
+          "strength": 10.34
+        },
+        {
+          "y": 499,
+          "strength": 8.29
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 1400,
+      "peaks": [
+        {
+          "y": 522,
+          "strength": 17.12
+        },
+        {
+          "y": 503,
+          "strength": 10.11
+        },
+        {
+          "y": 553,
+          "strength": 9.85
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 1600,
+      "peaks": [
+        {
+          "y": 539,
+          "strength": 13.82
+        },
+        {
+          "y": 614,
+          "strength": 12.32
+        },
+        {
+          "y": 552,
+          "strength": 6.96
+        }
+      ]
+    },
+    {
+      "time": 2,
+      "x": 1840,
+      "peaks": [
+        {
+          "y": 611,
+          "strength": 18.36
+        },
+        {
+          "y": 589,
+          "strength": 13.97
+        },
+        {
+          "y": 576,
+          "strength": 4.23
+        }
+      ]
+    }
+  ]
+}

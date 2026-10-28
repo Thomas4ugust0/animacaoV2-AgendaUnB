@@ -1,0 +1,198 @@
+{
+  "source": "ampulheta_minimalista.mp4",
+  "width": 1860,
+  "height": 962,
+  "aspectRatio": 1.9334719335,
+  "fps": 60,
+  "frameCount": 596,
+  "durationSeconds": 9.9333333333,
+  "codec": "mpeg4 Simple Profile (mp4v)",
+  "pixelFormat": "yuv420p",
+  "audio": false,
+  "hourglass": {
+    "coordinateSystem": "pixels in source video, origin top-left",
+    "centerX": 930,
+    "topY": 216,
+    "bottomY": 805,
+    "leftX": 770,
+    "rightX": 1090,
+    "neck": [
+      930,
+      510
+    ],
+    "sandSurfaceYAtStart": 365,
+    "sandSurfaceYAt9Seconds": 398,
+    "bottomSandPeakYAtStart": 706,
+    "bottomSandBaseY": 776,
+    "gridSpacingPixels": 7,
+    "pointCoreSizePixels": [
+      1,
+      2
+    ],
+    "pointHaloSizePixels": [
+      3,
+      4
+    ],
+    "camera": "fixed; no observed rotation or zoom",
+    "measurements": "approximate manual measurements on extracted source frames",
+    "highlightRegions": [
+      {
+        "name": "upper left corner",
+        "bounds": [
+          785,
+          216,
+          825,
+          238
+        ]
+      },
+      {
+        "name": "upper right corner",
+        "bounds": [
+          1045,
+          216,
+          1085,
+          238
+        ]
+      },
+      {
+        "name": "upper left side",
+        "bounds": [
+          808,
+          257,
+          842,
+          334
+        ]
+      },
+      {
+        "name": "upper right side",
+        "bounds": [
+          1018,
+          269,
+          1055,
+          355
+        ]
+      },
+      {
+        "name": "lower left side",
+        "bounds": [
+          812,
+          625,
+          852,
+          710
+        ]
+      },
+      {
+        "name": "lower right side",
+        "bounds": [
+          1026,
+          647,
+          1057,
+          739
+        ]
+      },
+      {
+        "name": "lower left corner",
+        "bounds": [
+          770,
+          774,
+          799,
+          805
+        ]
+      },
+      {
+        "name": "lower right corner",
+        "bounds": [
+          1068,
+          774,
+          1090,
+          805
+        ]
+      }
+    ]
+  },
+  "palette": {
+    "dominantBackgroundRGB": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ]
+    ],
+    "brightBlueSelection": "B > 35 and B > 1.3 * R, sampled from frame at approximately 0.5 s",
+    "blueMedianRGB": [
+      10,
+      24,
+      62
+    ],
+    "blueP75RGB": [
+      33,
+      48,
+      92
+    ],
+    "blueP90RGB": [
+      53,
+      73,
+      118
+    ],
+    "blueP95RGB": [
+      62,
+      83,
+      130
+    ],
+    "blueP99RGB": [
+      73,
+      94,
+      147
+    ],
+    "channelMaximaRGB": [
+      94,
+      110,
+      172
+    ],
+    "note": "Encoded video colors include compression and chroma subsampling. Channel-wise quantiles are descriptive, not a palette of co-occurring colors."
+  },
+  "ribbons": {
+    "visibleTrajectories": "at least three overlapping wave trajectories",
+    "usualRegionY": [
+      480,
+      675
+    ],
+    "pointRowsPerRibbon": [
+      2,
+      4
+    ],
+    "motion": "lateral phase propagation with changing amplitude and separation; depth is suggested by luminosity and overlap",
+    "wavelengthEstimatePixels": [
+      900,
+      1350
+    ],
+    "note": "Wave frequency, phase and trajectories require fitting. Estimates are not exact extracted motion curves.",
+    "approximateMainFit": {
+      "formula": "u=(x-930)/930; a=0.00472*x-0.964*t; y=569-5.5*u+(8.6-9*u)*sin(a)+(76.6-15.4*u)*cos(a)",
+      "rmsErrorPixels": 13,
+      "wavelengthPixels": 1332,
+      "phaseVelocityPixelsPerSecond": 204,
+      "status": "approximate fit to manual samples, not exact motion extraction"
+    }
+  },
+  "observedMotion": [
+    "Hourglass silhouette and camera remain fixed.",
+    "Upper sand surface lowers slowly by approximately 33 pixels over the sampled nine seconds.",
+    "Bottom pile rises modestly.",
+    "A narrow central dotted flow remains visible between the neck and lower pile.",
+    "Wave ribbons continuously propagate across the image; their crossings change.",
+    "No full emptying, flipping or restart is visible in this ten-second excerpt."
+  ],
+  "contactSheetSampling": "ffmpeg fps=1; representative samples at approximately 0.5, 1.5, ..., 9.5 seconds",
+  "firstFrame": "first-frame.png is decoded frame index 0",
+  "inspectionImages": [
+    "contact-sheet-bright.png (brightness x6)",
+    "hourglass-progress-bright.png (brightness x5)",
+    "first-hourglass-bright.png (brightness x4)"
+  ]
+}

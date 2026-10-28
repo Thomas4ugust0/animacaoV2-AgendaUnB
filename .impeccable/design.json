@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T01:41:40.028Z",
+  "title": "Design System: Ampulheta Studio",
+  "extensions": {
+    "colorMeta": {
+      "scene-blue": {
+        "role": "primary",
+        "displayName": "Scene Blue",
+        "tonalRamp": [
+          "oklch(15.00% 0.12227 264.98)",
+          "oklch(26.43% 0.12227 264.98)",
+          "oklch(37.86% 0.12227 264.98)",
+          "oklch(49.29% 0.12227 264.98)",
+          "oklch(60.71% 0.12227 264.98)",
+          "oklch(72.14% 0.12227 264.98)",
+          "oklch(83.57% 0.12227 264.98)",
+          "oklch(95.00% 0.12227 264.98)"
+        ]
+      },
+      "scene-black": {
+        "role": "neutral",
+        "displayName": "Scene Black",
+        "tonalRamp": [
+          "oklch(15.00% 0.01316 233.51)",
+          "oklch(26.43% 0.01316 233.51)",
+          "oklch(37.86% 0.01316 233.51)",
+          "oklch(49.29% 0.01316 233.51)",
+          "oklch(60.71% 0.01316 233.51)",
+          "oklch(72.14% 0.01316 233.51)",
+          "oklch(83.57% 0.01316 233.51)",
+          "oklch(95.00% 0.01316 233.51)"
+        ]
+      },
+      "studio-background": {
+        "role": "neutral",
+        "displayName": "Studio Background",
+        "tonalRamp": [
+          "oklch(15.00% 0.01033 276.41)",
+          "oklch(26.43% 0.01033 276.41)",
+          "oklch(37.86% 0.01033 276.41)",
+          "oklch(49.29% 0.01033 276.41)",
+          "oklch(60.71% 0.01033 276.41)",
+          "oklch(72.14% 0.01033 276.41)",
+          "oklch(83.57% 0.01033 276.41)",
+          "oklch(95.00% 0.01033 276.41)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15.00% 0.01373 278.80)",
+          "oklch(26.43% 0.01373 278.80)",
+          "oklch(37.86% 0.01373 278.80)",
+          "oklch(49.29% 0.01373 278.80)",
+          "oklch(60.71% 0.01373 278.80)",
+          "oklch(72.14% 0.01373 278.80)",
+          "oklch(83.57% 0.01373 278.80)",
+          "oklch(95.00% 0.01373 278.80)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15.00% 0.01823 276.35)",
+          "oklch(26.43% 0.01823 276.35)",
+          "oklch(37.86% 0.01823 276.35)",
+          "oklch(49.29% 0.01823 276.35)",
+          "oklch(60.71% 0.01823 276.35)",
+          "oklch(72.14% 0.01823 276.35)",
+          "oklch(83.57% 0.01823 276.35)",
+          "oklch(95.00% 0.01823 276.35)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Text",
+        "tonalRamp": [
+          "oklch(15.00% 0.00970 273.35)",
+          "oklch(26.43% 0.00970 273.35)",
+          "oklch(37.86% 0.00970 273.35)",
+          "oklch(49.29% 0.00970 273.35)",
+          "oklch(60.71% 0.00970 273.35)",
+          "oklch(72.14% 0.00970 273.35)",
+          "oklch(83.57% 0.00970 273.35)",
+          "oklch(95.00% 0.00970 273.35)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.02522 272.70)",
+          "oklch(26.43% 0.02522 272.70)",
+          "oklch(37.86% 0.02522 272.70)",
+          "oklch(49.29% 0.02522 272.70)",
+          "oklch(60.71% 0.02522 272.70)",
+          "oklch(72.14% 0.02522 272.70)",
+          "oklch(83.57% 0.02522 272.70)",
+          "oklch(95.00% 0.02522 272.70)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Accent",
+        "tonalRamp": [
+          "oklch(15.00% 0.08246 269.94)",
+          "oklch(26.43% 0.08246 269.94)",
+          "oklch(37.86% 0.08246 269.94)",
+          "oklch(49.29% 0.08246 269.94)",
+          "oklch(60.71% 0.08246 269.94)",
+          "oklch(72.14% 0.08246 269.94)",
+          "oklch(83.57% 0.08246 269.94)",
+          "oklch(95.00% 0.08246 269.94)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15.00% 0.07666 270.85)",
+          "oklch(26.43% 0.07666 270.85)",
+          "oklch(37.86% 0.07666 270.85)",
+          "oklch(49.29% 0.07666 270.85)",
+          "oklch(60.71% 0.07666 270.85)",
+          "oklch(72.14% 0.07666 270.85)",
+          "oklch(83.57% 0.07666 270.85)",
+          "oklch(95.00% 0.07666 270.85)"
+        ]
+      },
+      "primary-background": {
+        "role": "primary",
+        "displayName": "Primary Background",
+        "tonalRamp": [
+          "oklch(15.00% 0.06326 268.99)",
+          "oklch(26.43% 0.06326 268.99)",
+          "oklch(37.86% 0.06326 268.99)",
+          "oklch(49.29% 0.06326 268.99)",
+          "oklch(60.71% 0.06326 268.99)",
+          "oklch(72.14% 0.06326 268.99)",
+          "oklch(83.57% 0.06326 268.99)",
+          "oklch(95.00% 0.06326 268.99)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Primary Hover",
+        "tonalRamp": [
+          "oklch(15.00% 0.04483 268.69)",
+          "oklch(26.43% 0.04483 268.69)",
+          "oklch(37.86% 0.04483 268.69)",
+          "oklch(49.29% 0.04483 268.69)",
+          "oklch(60.71% 0.04483 268.69)",
+          "oklch(72.14% 0.04483 268.69)",
+          "oklch(83.57% 0.04483 268.69)",
+          "oklch(95.00% 0.04483 268.69)"
+        ]
+      },
+      "primary-text": {
+        "role": "primary",
+        "displayName": "Primary Text",
+        "tonalRamp": [
+          "oklch(15.00% 0.03564 266.32)",
+          "oklch(26.43% 0.03564 266.32)",
+          "oklch(37.86% 0.03564 266.32)",
+          "oklch(49.29% 0.03564 266.32)",
+          "oklch(60.71% 0.03564 266.32)",
+          "oklch(72.14% 0.03564 266.32)",
+          "oklch(83.57% 0.03564 266.32)",
+          "oklch(95.00% 0.03564 266.32)"
+        ]
+      },
+      "field-background": {
+        "role": "neutral",
+        "displayName": "Field Background",
+        "tonalRamp": [
+          "oklch(15.00% 0.01220 277.75)",
+          "oklch(26.43% 0.01220 277.75)",
+          "oklch(37.86% 0.01220 277.75)",
+          "oklch(49.29% 0.01220 277.75)",
+          "oklch(60.71% 0.01220 277.75)",
+          "oklch(72.14% 0.01220 277.75)",
+          "oklch(83.57% 0.01220 277.75)",
+          "oklch(95.00% 0.01220 277.75)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "tonalRamp": [
+          "oklch(15.00% 0.02304 274.93)",
+          "oklch(26.43% 0.02304 274.93)",
+          "oklch(37.86% 0.02304 274.93)",
+          "oklch(49.29% 0.02304 274.93)",
+          "oklch(60.71% 0.02304 274.93)",
+          "oklch(72.14% 0.02304 274.93)",
+          "oklch(83.57% 0.02304 274.93)",
+          "oklch(95.00% 0.02304 274.93)"
+        ]
+      },
+      "field-text": {
+        "role": "neutral",
+        "displayName": "Field Text",
+        "tonalRamp": [
+          "oklch(15.00% 0.01548 269.98)",
+          "oklch(26.43% 0.01548 269.98)",
+          "oklch(37.86% 0.01548 269.98)",
+          "oklch(49.29% 0.01548 269.98)",
+          "oklch(60.71% 0.01548 269.98)",
+          "oklch(72.14% 0.01548 269.98)",
+          "oklch(83.57% 0.01548 269.98)",
+          "oklch(95.00% 0.01548 269.98)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "title": {
+        "displayName": "Identidade",
+        "purpose": "Título compacto do estúdio."
+      },
+      "label": {
+        "displayName": "Rótulo",
+        "purpose": "Parâmetros e informação operacional."
+      }
+    },
+    "shadows": [
+      {
+        "name": "stage",
+        "value": "0 12px 40px #0003",
+        "purpose": "Separação difusa do palco."
+      },
+      {
+        "name": "notice",
+        "value": "0 6px 24px #0004",
+        "purpose": "Avisos temporários."
+      }
+    ],
+    "motion": [
+      {
+        "name": "button-transition",
+        "value": "background .15s,color .15s",
+        "purpose": "Hover dos botões; removido com prefers-reduced-motion:reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile-max",
+        "value": "760px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1050px"
+      },
+      {
+        "name": "wide-min",
+        "value": "1700px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Exportação principal",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Controle do estúdio, fora da composição exportada.",
+      "html": "<button class=\"ds-primary\">Exportar MP4</button>",
+      "css": ".ds-primary{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s,color .15s;min-height:38px;width:100%;border-radius:4px;font-size:12px;color:#101728;background:#b3c3ee;border:1px solid #b3c3ee;font-weight:600}.ds-primary:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}.ds-primary:disabled{cursor:wait;opacity:.55}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}.ds-primary:hover{background:#cad6f5;color:#101728}"
+    },
+    {
+      "name": "Ação secundária",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Controle do estúdio, fora da composição exportada.",
+      "html": "<button class=\"ds-secondary\">Capturar PNG</button>",
+      "css": ".ds-secondary{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s,color .15s;min-height:38px;width:100%;border-radius:4px;font-size:12px;background:transparent;border:1px solid #414655;color:#d1d8eb}.ds-secondary:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}.ds-secondary:disabled{cursor:wait;opacity:.55}@media(prefers-reduced-motion:reduce){.ds-secondary{transition:none}}.ds-secondary:hover{background:#262a35;color:#fff}"
+    },
+    {
+      "name": "Ação quieta",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Controle do estúdio, fora da composição exportada.",
+      "html": "<button class=\"ds-quiet\">Cinema</button>",
+      "css": ".ds-quiet{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s,color .15s;color:#e3e5ec;border:1px solid transparent;background:none;padding:8px 10px;border-radius:5px;font-size:12px}.ds-quiet:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}.ds-quiet:disabled{cursor:wait;opacity:.55}@media(prefers-reduced-motion:reduce){.ds-quiet{transition:none}}.ds-quiet:hover{background:#242630;color:#fff}"
+    },
+    {
+      "name": "Ação de texto",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Controle do estúdio, fora da composição exportada.",
+      "html": "<button class=\"ds-text\">Restaurar</button>",
+      "css": ".ds-text{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s,color .15s;border:0;background:none;color:var(--muted,#a0a5b6);font-size:11px;padding:4px}.ds-text:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}.ds-text:disabled{cursor:wait;opacity:.55}@media(prefers-reduced-motion:reduce){.ds-text{transition:none}}.ds-text:hover{color:var(--accent,#a9bcf4)}"
+    },
+    {
+      "name": "Transporte",
+      "kind": "button",
+      "description": "Controle do estúdio, fora da composição exportada.",
+      "html": "<button class=\"ds-icon\">▶</button>",
+      "css": ".ds-icon{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s,color .15s;background:transparent;color:#e3e5ec;border:0;width:30px;height:30px;padding:6px;border-radius:4px}.ds-icon:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}.ds-icon:disabled{cursor:wait;opacity:.55}@media(prefers-reduced-motion:reduce){.ds-icon{transition:none}}.ds-icon:hover{background:#2a2c36;color:#fff}"
+    },
+    {
+      "name": "Campo numérico",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Campo compacto com rótulo e foco visível.",
+      "html": "<label class=\"ds-label\">Duração<input class=\"ds-field\" type=\"number\" value=\"9.93\" step=\"0.01\"></label>",
+      "css": ".ds-label{font-family:Inter,\"Segoe UI\",sans-serif;display:flex;flex-direction:column;gap:7px;color:#b9bece;font-size:11px}.ds-field{font-family:Inter,\"Segoe UI\",sans-serif;background:#13141a;border:1px solid #363946;border-radius:4px;color:#e3e7f2;padding:9px;width:100%;font-size:11px;min-height:35px;accent-color:var(--accent,#a9bcf4);caret-color:var(--accent,#a9bcf4)}.ds-field:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}"
+    },
+    {
+      "name": "Abas da prévia",
+      "kind": "nav",
+      "description": "Abas transparentes com sublinhado ativo.",
+      "html": "<nav class=\"ds-tabs\"><button class=\"ds-tab ds-active\">Prévia</button><button class=\"ds-tab\">Comparar</button></nav>",
+      "css": ".ds-tabs{display:flex;border-bottom:1px solid var(--line,#2c2e38);gap:16px;align-items:center;height:70px}.ds-tab{font-family:Inter,\"Segoe UI\",sans-serif;cursor:pointer;border:0;background:none;color:var(--muted,#a0a5b6);height:100%;font-size:12px;border-bottom:2px solid transparent;padding:2px 0 0;transition:background .15s,color .15s}.ds-active{color:#edf0f9;border-bottom-color:var(--accent,#a9bcf4)}.ds-tab:hover{color:#fff}.ds-tab:focus-visible{outline:2px solid var(--focus,#b9caff);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-tab{transition:none}}"
+    },
+    {
+      "name": "Painel de ajustes",
+      "kind": "custom",
+      "refersTo": "inspector",
+      "description": "Superfície tonal com divisória; sem cartão elevado.",
+      "html": "<aside class=\"ds-inspector\"><h2 class=\"ds-heading\">Ajustes</h2><p class=\"ds-caption\">Forma e movimento</p></aside>",
+      "css": ".ds-inspector{font-family:Inter,\"Segoe UI\",sans-serif;background:var(--surface,#191a21);border-left:1px solid var(--line,#2c2e38);padding:24px 20px 20px;color:#e3e5ec}.ds-heading{font-size:15px;font-weight:550;margin:0 0 20px}.ds-caption{font-size:11px;color:var(--muted,#a0a5b6);margin:0}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Ampulheta pontilhada azul escura",
+    "overview": "A referência fornecida define o mundo visual: uma ampulheta central feita de pontos azuis discretos, cercada por faixas onduladas sobre fundo quase preto. A luminosidade é contida e a forma emerge da distribuição dos pontos e dos reflexos fragmentados. A reconstrução é uma aproximação controlada, sem promessa de identidade pixel a pixel.\n\nO estúdio usa superfícies escuras, linhas finas e tipografia compacta para manter a atenção na composição. A interface de operação fica fora da imagem renderizada e exportada. Os nomes dos tokens descrevem valores observados no código; não introduzem uma nova direção artística.",
+    "keyCharacteristics": [
+      "Pontos azuis regulares, brilho discreto e fundo quase preto.",
+      "Câmaras arredondadas, gargalo contínuo e bordas curvas.",
+      "Interface compacta com controles nativos e números tabulares.",
+      "Separação entre composição e ferramentas de operação."
+    ],
+    "rules": [
+      {
+        "name": "The Scene Boundary Rule",
+        "body": "A paleta da interface não deve aumentar o brilho da composição exportada.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preservar a referência escura, os pontos regulares e a luminosidade contida.",
+      "Do manter câmaras arredondadas e transições suaves no gargalo.",
+      "Do manter controles, textos e rótulos de comparação fora da composição exportada.",
+      "Do preservar foco visível, controles nativos e números tabulares.",
+      "Do descrever o resultado como aproximação controlada da referência."
+    ],
+    "donts": [
+      "Don't reproduzir o contorno branco da imagem anotada na cena.",
+      "Don't acrescentar neon, vidro fotorealista ou decoração sem relação com a referência.",
+      "Don't distorcer a proporção do palco para preencher o espaço disponível.",
+      "Don't substituir a renderização procedural pelo vídeo de referência."
+    ]
+  }
+}

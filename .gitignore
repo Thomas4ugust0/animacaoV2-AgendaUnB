@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+output/
+.impeccable/review/
+analysis/tools/
+analysis/frames/
+reference/*.mp4
+*.log
